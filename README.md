@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First test repository
+First test repository with Python code
